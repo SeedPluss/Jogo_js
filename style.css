@@ -7,8 +7,9 @@
 }
 
 .alinhamentodostextos{
-    text-align: center;
+    text-align: left;
 }
+
 /*Padding dos objetos da pagina*/
 .paddingelements{
     padding: 10px;
