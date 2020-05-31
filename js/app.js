@@ -3,13 +3,12 @@ function GerarNumero() {
     var valor = document.getElementById("valoraposta").value
     var numeros = document.getElementById("numerosaposta").value
 
-    if (numero == ""){
+    if (numero == "") {
         alert("Insira o total de número que você quer apostar")
-        return
+        return;
     }
-    if (valor == ""){
+    if (valor == "") {
         alert("Insira o valor da aposta!")
-        return
+        return;
     }
-    
 }
