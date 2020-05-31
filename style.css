@@ -1,0 +1,19 @@
+.colorbody{
+    background-color: grey;
+}
+
+.colorcontainer{
+    background-color: white;
+}
+
+.alinhamentodostextos{
+    text-align: center;
+}
+/*Padding dos objetos da pagina*/
+.paddingelements{
+    padding: 10px;
+}
+
+.alinhamentobtn{
+    align-items: center;
+}
