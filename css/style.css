@@ -1,5 +1,6 @@
-.colorbody{
+body{
     background-color: purple;
+    background-image: url("../img/fundo.jpg");
 }
 
 .colorcontainer{
@@ -26,7 +27,4 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-  }
-  body{
-      background-image: url(img/fundo.jpg);
   }
