@@ -27,3 +27,6 @@
     margin-right: auto;
     width: 50%;
   }
+  body{
+      background-image: url(img/fundo.jpg);
+  }
