@@ -1,13 +1,19 @@
 body{
-    background-color: purple;
-    background-image: url("../img/fundo.jpg");
+    background-color: lightblue;
 }
 
 .colorcontainer{
-    background-color: whitesmoke;
+    background-color: lightgreen;
+    border: solid 1px lightgray;
+    border-radius: 20px;
 }
 
 .alinhamentodostextos{
+    text-align: center;
+}
+.alinhamentotextolongo{
+    margin-left: 18%;
+    width: 750px;
     text-align: left;
 }
 /*Padding dos objetos da pagina*/
@@ -16,7 +22,7 @@ body{
 }
 
 .alinhamentobtn{
-    align-items: center;
+    margin-left: 37%;
 }
 .background-color{
 
@@ -27,4 +33,39 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+/*alinhamento navbar*/
+.alinhamentonavbar{
+    margin-left: 45%;
+}
+/*alinhamento logo(container)*/
+.alinhamentologo{
+    width: 80px;
+    height: 80px;
+}
+.primeiracortabela{
+    background-color: green;
+}
+.segundacortabela{
+    background-color: white;
+}
+
+.ajusteimagempreços{
+    margin-left: 9%;
+    width: 900px;
+    padding: 10px;
+}
+
+.alignfooter{
+    margin-bottom: -30%;
+    height: 95px;
+    background-color: white;
+}
+
+
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
 }
