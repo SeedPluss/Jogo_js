@@ -1,5 +1,5 @@
 body{
-    background-color: lightblue;
+    background-color:#f5ffff;
 }
 
 .colorcontainer{
@@ -44,7 +44,7 @@ body{
     height: 80px;
 }
 .primeiracortabela{
-    background-color: green;
+    background-color:white;
 }
 .segundacortabela{
     background-color: white;
@@ -61,8 +61,6 @@ body{
     height: 95px;
     background-color: white;
 }
-
-
 
 input[type=number]::-webkit-inner-spin-button, 
 input[type=number]::-webkit-outer-spin-button { 
